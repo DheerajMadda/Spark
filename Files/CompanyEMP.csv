@@ -1,0 +1,31 @@
+﻿EmpID,FirstName,LastName,Gender,DateofBirth,DateofJoining,BasicQualification,Salary,DeptId,Designation,ReportsTo,City,State,Zone,Exp
+1,Suhas,Joshi,Male,1/21/1983,4/15/2000,B.Com,45000,1,Executive,Sanjay,Mumbai,Maharashtra,Western,19
+2,Mohan,Lal,Male,4/11/1980,2/1/2001,B.Sc,35000,3,Team Lead,Manasi,Satara,Maharashtra,Western,18
+3,Paritosh,Choudhary,Male,8/1/1976,1/1/1998,BE,80000,4,Floor Manager,Mukund,Chandigad,Punjab,North,21
+4,Muskan,Ghosh,Female,5/15/1982,6/15/2002,BE,50000,5,Programmer,Manjunath,Pune,Maharashtra,Western,17
+5,Madhur,Chopra,Female,5/16/1985,4/18/2001,MBA,48000,6,Executive,Meenal,Gurgaon,Haryana,North,18
+6,Srinivasa,Rao,Male,10/17/1986,7/9/2002,BE,50000,7,Support Engg.,Nandan,Gurgaon,Haryana,North,17
+7,Ashish,Bakre,Male,5/12/1987,11/12/2005,MBA,42000,2,Executive,Jasprit,Bengaluru,Karnatka,South,14
+8,Narayan,Laxaman,Male,11/19/1980,12/15/2010,MCS,40000,5,Programmer,Manjunath,Bengaluru,Karnatka,South,8
+9,Geeta,Sreeram,Female,10/20/1984,8/10/2006,MBA,40000,4,Supervisor,Mukund,Bengaluru,Karnatka,South,13
+10,Ritesh,Goyal,Male,5/21/1984,1/11/2008,BE,53000,5,Team Lead,Manjunath,Pune,Maharashtra,Western,11
+11,Prateek,Zha,Male,12/22/1984,2/7/2006,MBA,55000,3,Sales Executive,Manasi,Mumbai,Maharashtra,Western,13
+12,Naresh,Patole,Male,9/23/1982,9/23/2008,MBA,35000,2,MR,Jasprit,Pune,Maharashtra,Western,11
+13,Navneet,Singh,Female,9/17/1982,12/10/2007,BE,50000,5,Programmer,Manjunath,Gurgaon,Haryana,North,11
+14,Neelam,Mehera,Female,5/25/1982,10/10/2006,MMM,40000,2,MR,Jasprit,Gurgaon,Haryana,North,13
+15,Shantanu,Das,Male,6/26/1990,10/22/2010,B.Com,35000,1,Accountant,Sanjay,Mumbai,Maharashtra,Western,9
+16,Abhijeet,Bagade,Male,2/27/1992,11/12/2005,BE,52000,4,Engineer,Mukund,Mumbai,Maharashtra,Western,14
+17,Mohana,Srivastava,Female,2/20/1988,6/15/2005,BE,52000,4,Engineer,Mukund,Bengaluru,Karnatka,South,14
+18,Venkat,Krishanan,Male,4/19/1989,1/11/2011,BE,60000,4,Technician,Mukund,Bengaluru,Karnatka,South,8
+19,Avinash,Sutar,Male,5/30/1981,6/15/2011,BE,55000,6,Executive,Meenal,Pune,Maharashtra,Western,8
+20,Karim,Syed,Male,8/31/1989,5/3/2010,B.Sc,43000,7,Support Engg.,Nandan,Pune,Maharashtra,Western,9
+21,Jignesh,Vhora,Male,6/11/1993,2/2/2013,M.Com,33000,1,Team Lead,Sanjay,Pune,Maharashtra,Western,6
+22,Himanshu,Verma,Male,11/2/1992,3/23/2004,MBA,55000,2,Team Lead,Jasprit,Gurgaon,Haryana,North,15
+23,Deepti,Gokhale,Female,3/23/1987,5/4/2008,MMS,40000,3,Sales Executive,Manasi,Pune,Maharashtra,Western,11
+24,Sanjay,Shrotri,Male,7/4/1975,1/11/1995,CS,100000,1,Manager,,Pune,Maharashtra,Western,24
+25,Manasi,Verma,Female,3/12/1978,8/19/1997,MBA,100000,3,Manager,,Pune,Maharashtra,Western,22
+26,Mukund,Dubey,Male,6/6/1976,6/23/1996,Btech,100000,4,Manager,,Pune,Maharashtra,Western,23
+27,Manjunath,K,Male,1/8/1975,5/5/1997,BE,100000,5,Manager,,Pune,Maharashtra,Western,22
+28,Meenal,Bhatia,Female,6/18/1976,6/6/2002,MBA,100000,6,Manager,,Pune,Maharashtra,Western,17
+29,Nandan,Joshi,Male,8/19/1975,8/8/1997,MBA,100000,7,Manager,,Pune,Maharashtra,Western,22
+30,Jasprit,Ahuja,Male,6/28/1977,1/1/1996,MBA,100000,2,Manager,,Pune,Maharashtra,Western,23

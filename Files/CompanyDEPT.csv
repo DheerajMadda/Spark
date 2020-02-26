@@ -1,0 +1,8 @@
+﻿DeptId,DepartmentName,DepartmentBudget,DepartmentCategory,DepartmentRating
+1,Finance,1000000,Support,3
+2,Marketing,2500000,Main,2
+3,Sales,1200000,Main,4
+4,Production,4000000,Main,1
+5,IT,3000000,Support,2
+6,HR,2000000,Support,4
+7,Maintenance,2200000,Support,3
